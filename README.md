@@ -127,4 +127,4 @@ I'm always excited to collaborate on software projects, especially those involvi
 
 🎯 **Current Focus**: Expanding my expertise in software engineering and modern development practices, technological advancements in DTS (Digital and Technology Solutions) leveraging my comprehensive engineering foundation in mathematics, physics, and systematic problem-solving to be an Industry 4.0 and Web3-ready tech professional.
 
-📍 **Location**: London, UK 🇬🇧
+📍 **Location**: London, UK 
