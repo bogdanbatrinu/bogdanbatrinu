@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there, I'm Bogdan!
 
 Welcome to my GitHub profile! I'm a petroleum engineering graduate transitioning into software engineering and technology. This is a growing portfolio of projects where I apply engineering principles, software development, and data analysis to solve real-world challenges and deliver meaningful solutions.
@@ -119,7 +117,7 @@ Full-stack web applications demonstrating modern development practices and user 
 I'm always excited to collaborate on software projects, especially those involving technical problem-solving, data analysis, or cross-disciplinary engineering challenges. My unique combination of rigorous mathematical foundation, comprehensive engineering education, and growing software development skills enables me to tackle complex technical problems from multiple perspectives.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bogdan-batrinu-683bb0130/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbatrinuuk@gmail.com)
 
 ---
 
