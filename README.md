@@ -95,6 +95,60 @@ Advanced studies building upon engineering foundation - Business Analysis, Proje
 
 Contributing to innovative software projects and continuing professional development in modern software engineering practices.
 
+Pre-graduation Industrial Placement
+Gubkin Russian State University of Oil and Gas (National Research University) · InternshipGubkin Russian State University of Oil and Gas (National Research University) · Internship
+Mar 2022 - May 2022 · 3 mosMar 2022 to May 2022 · 3 mos
+Volkhov, Leningradskaya Oblast’, Russian Federation · HybridVolkhov, Leningradskaya Oblast’, Russian Federation · Hybrid
+- Consulted local municipal authorities on the main project parameters of the trunk gas pipeline 
+“Murmansk – Volkhov”;
+- Gathered and analysed data on the surrounding environment, transportation links and main supply 
+chain infrastructure that would facilitate or hinder project initiation;
+- Calculated and proposed an initial project proposal in accordance with SNiP 2.05.06-85 equivalent to 
+BS EN 14161:2011 / ISO 13623:2009;
+- Created several modelling scenarios using MATLAB, including stress modelling for proposed 
+pipeline wall thickness and materials selected, supply chain resilience for each construction phase of 
+the project and economic amortisation factors for various pipeline routes;
+- Reported and visualised insights to government and local stakeholders using Power Point, data from 
+Excel models, AutoCAD drawings and Power BI visualisations
+
+
+Third Year Industrial Placement
+Third Year Industrial Placement
+Gubkin Russian State University of Oil and Gas (National Research University) · InternshipGubkin Russian State University of Oil and Gas (National Research University) · Internship
+Jun 2021 - Jul 2021 · 2 mosJun 2021 to Jul 2021 · 2 mos
+Remote (United Kingdom) - Greater London, England · RemoteRemote (United Kingdom) - Greater London, England · Remote
+- Researched and analysed main project management policies applied in the construction, operation and 
+maintenance of trunk pipeline compressor stations;
+- Proposed the implementation of a new quality assurance framework for SCADA procedures at the 
+compressor station, that had the potential to reduce gas flow downtime by 17%;
+- Presented my solution to the compressor station manager in an insightful PowerPoint presentation, 
+including slides with AutoCAD technical drawings and visualised Excel data.
+
+
+Second Year Industrial Placement
+Second Year Industrial Placement
+Gubkin Russian State University of Oil and Gas (National Research University) · InternshipGubkin Russian State University of Oil and Gas (National Research University) · Internship
+Jun 2020 - Jul 2020 · 2 mosJun 2020 to Jul 2020 · 2 mos
+Remote (United Kingdom) - Greater London, England · RemoteRemote (United Kingdom) - Greater London, England · Remote
+- Gained practical experience in research, analysis and design of industrial policies, particularly in 
+modern welding techniques;
+- Managed and foreseen to completion a short-scale welding project in a controlled environment;
+- Consulted a local team of skilled workers on improving the output of the facility the have been 
+working in by proposing slight changes in materials supplies and equipment used by them;
+- Summarised and presented the results of the placement by using advanced PowerPoint and PowerBI visualisations.
+
+
+Geodesy Residential Placement
+Geodesy Residential Placement
+Gubkin Russian State University of Oil and Gas (National Research University) · InternshipGubkin Russian State University of Oil and Gas (National Research University) · Internship
+Jun 2019 - Jul 2019 · 2 mosJun 2019 to Jul 2019 · 2 mos
+Konakovo Village, Tverskaya Oblast’, Russian Federation · On-siteKonakovo Village, Tverskaya Oblast’, Russian Federation · On-site
+- Proposed a resilient solution to handle a setback in a group assignment by applying an optimised 
+digital solution (AutoCAD drawings) to reduce the time needed to complete our work, resulting in the 
+early delivery of the project’s deliverables (the assignment has been delivered 7 days before the 
+deadline);
+- Managed a team of 5 people of various nationalities and cultural backgrounds
+
 ## 📂 Featured Projects
 
 ### 🔧 Engineering Analysis Tools
