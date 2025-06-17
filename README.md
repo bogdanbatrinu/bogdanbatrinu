@@ -4,15 +4,15 @@ Welcome to my GitHub profile! I'm a petroleum engineering graduate transitioning
 
 ## 🔍 About Me
 
-I'm a problem solver with a rigorous technical foundation, built through 4+ years of intensive engineering coursework at Gubkin University. My comprehensive education spans advanced mathematics, physics, chemistry, and specialized petroleum engineering disciplines, providing me with a unique analytical perspective that I now apply to software engineering and technology challenges.
+I'm a problem solver with a rigorous technical foundation, built through 4+ years of intensive engineering coursework at Gubkin University. My comprehensive education spans advanced mathematics, physics, chemistry, and specialised petroleum engineering disciplines, providing me with a unique analytical perspective that I now apply to software engineering and technology challenges.
 
 Currently working as a **Software Engineer (Fellow) at 01 Founders**, where I continue to develop my technical skills and contribute to innovative projects.
 
 My technical expertise bridges theoretical foundations with practical implementation, bringing experience in:
 
 • **Software Engineering & Development** - Built on advanced mathematical foundations including differential calculus, integral calculus, probability theory, and mathematical statistics
-• **Pipeline Engineering & Energy Analytics** - Specialized in pipeline transport systems, hydraulics, thermodynamics, and materials science
-• **Data Analysis & Visualization** - Enhanced by strong analytical and statistical modeling background
+• **Pipeline Engineering & Energy Analytics** - Specialising in pipeline transport systems, hydraulics, thermodynamics, and materials science
+• **Data Analysis & Visualisation** - Enhanced by a strong analytical and statistical modelling background
 • **Project Management & Agile Methodologies** - Informed by engineering project management and systems thinking
 • **Cross-cultural Team Leadership** - Developed through international academic and professional experience
 • **Technical Problem Solving** - Strengthened by quantitative analysis and engineering training
@@ -43,7 +43,7 @@ My technical expertise bridges theoretical foundations with practical implementa
 • Corrosion Science & Protection Methods
 • Materials Engineering & Metallurgy
 
-**Specialized Petroleum Engineering:**
+**Specialised Petroleum Engineering:**
 • Pipeline Transport Systems
 • Construction & Maintenance of Gas Supply Networks
 • Hydraulic Calculations & Flow Dynamics
@@ -76,15 +76,15 @@ Advanced studies building upon engineering foundation - Business Analysis, Proje
 
 ## 🎯 Core Competencies
 
-• **Advanced Mathematical Analysis**: Differential equations, statistical modeling, numerical methods, probability theory, and computational mathematics applied to complex engineering and software problems
+• **Advanced Mathematical Analysis**: Differential equations, statistical modelling, numerical methods, probability theory, and computational mathematics applied to complex engineering and software problems
 
-• **Engineering Physics & Thermodynamics**: Deep understanding of fluid mechanics, heat transfer, materials science, and thermodynamic systems with applications in technical optimization
+• **Engineering Physics & Thermodynamics**: Deep understanding of fluid mechanics, heat transfer, materials science, and thermodynamic systems with applications in technical optimisation
 
 • **Pipeline Systems & Infrastructure**: Comprehensive knowledge of pipeline transport, hydraulic calculations, materials engineering, corrosion protection, and welding technology
 
 • **Software Development**: Full-stack development, API design, database management, version control, and modern development practices
 
-• **Technical Problem Solving**: Algorithm design, data structures, system architecture, and performance optimization
+• **Technical Problem Solving**: Algorithm design, data structures, system architecture, and performance optimisation
 
 • **Project Management**: Agile & Scrum Methodologies, Risk Assessment, Stakeholder Management, Cross-functional Team Leadership
 
@@ -105,10 +105,10 @@ Volkhov, Leningradskaya Oblast’, Russian Federation · HybridVolkhov, Leningra
 chain infrastructure that would facilitate or hinder project initiation;
 - Calculated and proposed an initial project proposal in accordance with SNiP 2.05.06-85 equivalent to 
 BS EN 14161:2011 / ISO 13623:2009;
-- Created several modelling scenarios using MATLAB, including stress modelling for proposed 
+- Created several modelling scenarios using MATLAB, including stress modelling for the proposed 
 pipeline wall thickness and materials selected, supply chain resilience for each construction phase of 
 the project and economic amortisation factors for various pipeline routes;
-- Reported and visualised insights to government and local stakeholders using Power Point, data from 
+- Reported and visualised insights to government and local stakeholders using PowerPoint, data from 
 Excel models, AutoCAD drawings and Power BI visualisations
 
 
@@ -117,10 +117,10 @@ Third Year Industrial Placement
 Gubkin Russian State University of Oil and Gas (National Research University) · InternshipGubkin Russian State University of Oil and Gas (National Research University) · Internship
 Jun 2021 - Jul 2021 · 2 mosJun 2021 to Jul 2021 · 2 mos
 Remote (United Kingdom) - Greater London, England · RemoteRemote (United Kingdom) - Greater London, England · Remote
-- Researched and analysed main project management policies applied in the construction, operation and 
-maintenance of trunk pipeline compressor stations;
+- Researched and analysed main project management policies applied in the construction, operation, and 
+Maintenance of trunk pipeline compressor stations;
 - Proposed the implementation of a new quality assurance framework for SCADA procedures at the 
-compressor station, that had the potential to reduce gas flow downtime by 17%;
+compressor station, which had the potential to reduce gas flow downtime by 17%;
 - Presented my solution to the compressor station manager in an insightful PowerPoint presentation, 
 including slides with AutoCAD technical drawings and visualised Excel data.
 
@@ -132,9 +132,8 @@ Jun 2020 - Jul 2020 · 2 mosJun 2020 to Jul 2020 · 2 mos
 Remote (United Kingdom) - Greater London, England · RemoteRemote (United Kingdom) - Greater London, England · Remote
 - Gained practical experience in research, analysis and design of industrial policies, particularly in 
 modern welding techniques;
-- Managed and foreseen to completion a short-scale welding project in a controlled environment;
-- Consulted a local team of skilled workers on improving the output of the facility the have been 
-working in by proposing slight changes in materials supplies and equipment used by them;
+- Managed and completed a small-scale welding project in a controlled environment;
+- Consulted a local team of skilled workers on improving the output of the facility by proposing slight changes in materials, supplies, and equipment used by them;
 - Summarised and presented the results of the placement by using advanced PowerPoint and PowerBI visualisations.
 
 
@@ -154,12 +153,12 @@ deadline);
 ### 🔧 Engineering Analysis Tools
 Technical analysis and calculation tools leveraging engineering principles and mathematical foundations developed during petroleum engineering studies.
 
-**Tech:** Python, Mathematical Modeling, Engineering Calculations
+**Tech:** Python, Mathematical Modelling, Engineering Calculations
 
-### 📊 Data Visualization Projects
-Interactive dashboards and data analysis projects applying statistical methods and visualization techniques to real-world datasets.
+### 📊 Data Visualisation Projects
+Interactive dashboards and data analysis projects applying statistical methods and visualisation techniques to real-world datasets.
 
-**Tech:** Python, Data Visualization Libraries, Statistical Analysis
+**Tech:** Python, Data Visualisation Libraries, Statistical Analysis
 
 ### 💻 Web Automation and Development Projects
 Full-stack web applications demonstrating modern development practices and user interface design.
@@ -175,8 +174,8 @@ I'm always excited to collaborate on software projects, especially those involvi
 
 ---
 
-💡 **Fun Fact**: I speak three languages fluently (English, Russian, Romanian) and use a personalized Kaizen dynamic planning system for continuous improvement in both personal and professional projects!
+💡 **Fun Fact**: I speak three languages fluently (English, Russian, Romanian) and use a personalised Kaizen dynamic planning system for continuous improvement in both personal and professional projects!
 
-🎯 **Current Focus**: Expanding my expertise in software engineering and modern development practices, technological advancements in DTS (Digital and Technology Solutions) leveraging my comprehensive engineering foundation in mathematics, physics, and systematic problem-solving to be an Industry 4.0 and Web3-ready tech professional.
+🎯 **Current Focus**: Expanding my expertise in software engineering and modern development practices, technological advancements in DTS (Digital and Technology Solutions), leveraging my comprehensive engineering foundation in mathematics, physics, and systematic problem-solving to be an Industry 4.0 and Web3-ready tech professional.
 
 📍 **Location**: London, UK 
